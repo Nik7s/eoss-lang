@@ -1,2 +1,4 @@
 # eoss-lang
 Compiler for Eoss Lang
+
+(THIS IS VERY MUCH WIP AND WILL BE FOR A LONG TIME AS I HAVE UPCOMING EXAMS!)
